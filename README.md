@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Hani Nabil 👋
+### Analytical Engineer | Data Scientist | BI Analyst
 
-<!--
-**HaniNabil-Data/HaniNabil-Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Telecommunication Engineer transitioned into Data Science, with a strong background in Telecommunications, Pharmaceuticals, and Agriculture. I specialize in turning complex datasets into actionable business insights.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on advanced Data Analytics and Machine Learning projects.
+- 🌱 I’m currently refining my skills in Predictive Modeling and Cloud Data Engineering.
+- 💬 Ask me about *Python, SQL, Power BI, and Machine Learning.*
+- 📫 How to reach me: [haninabil8220@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🛠 Tech Stack
+- *Languages:* Python (Pandas, NumPy, Scikit-Learn), SQL.
+- *Visualization:* Power BI, Tableau, Matplotlib, Seaborn.
+- *Tools:* Excel (Advanced), GitHub, Jupyter Notebooks.
 -->
